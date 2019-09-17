@@ -1,0 +1,72 @@
+			Installation of mongo db for node js
+			
+-->	download mongo db server, and install into system.
+--> if it is windows, set the path for mongodb in environment variables-> system variables->path->eidt->new->C:\Program Files\MongoDB\Server\4.2\bin;
+-->open cmd and type 'mongod'-> if server is running then it means sucessfully installed. else check once whether path problem or installation problem.
+
+default port number for mongodb is: 27017;
+
+--> To start mongodb, open cmd and type mongo
+
+-------------------------------------------------
+
+1) if we want to know all the dbs which are in the system, then type 
+
+show dbs
+
+2)if we want to go to any particular db or say connect to that db, then 
+
+use db_name
+eg:  use admin
+
+3) if we want to know what are all the collections(tables in the database), then 
+
+show collections
+
+4)  if we want to know what are all the documents (rows in the table(collection)), then  
+
+db.collection_name.find()
+eg: db.movies.find()
+
+5)if we want to insert data into collection,then
+
+db.movies.insert({"object_Id": 880898878786767767767,"name":"kanthi", "course":"angular"})
+
+while inserting data into mongo db, object_id will be created as a primary_key and we also can create our own object_ids.
+
+we can not create duplicate primary key documents.
+
+6)  if we want select with any condition like
+
+select * from employee where ename='rekha';
+
+db.movies.find({"ename":"rekha"});
+
+7)we can find all the recordss count using,
+
+db.movies.count()
+
+8)  if we want to update any docuement or record, then
+
+first we can give , on what basisi we want to update the value, and second one is which value we want to udpate.
+
+db.movies.update({name:"rekha"},{$set:{course:"node"}});
+
+9) while updating if condition is matching, then it will update or it will add new record. To do this task we have mention
+upsert, while updating.
+
+db.movies.update({name:"rekha1"},{$set:{course:"js"}},{upsert:true});
+
+it means while it is updating , if it finds the record with name "rekha1" then it will update or else it will add new record as we mentioned upsert as true.
+
+10)  if we want to remove the records from the collection, then
+db.movies({})
+
+then it will remove all the records or documents from the collection (table).
+
+if we want to remove a particular record or docuement, then 
+
+db.movies.remove({name:"rekha"});
+
+
+
