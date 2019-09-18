@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+  <meta charset="utf-8">
+  <meta name="generator" content="Bootply" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+
+   <link href="/css/styles.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <header class="navbar navbar-bright navbar-fixed-top" role="banner">
+
+  <div class="container">
+
+  <nav class="collapse navbar-collapse" role="navigation">
+      <ul class="nav navbar-nav">
+        <% for(var i=0;i<menu.length;i++){%>
+        <li>
+          <a href="<%=menu[i].link%>"><%=menu[i].name%></a>
+        </li>
+        <%}%>
+      </ul>
+    </nav>
+
+  </div>
+
+</header>
+  <div id="masthead">
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-7">
+
+          <h1><%=title%>
+
+          </h1>
+
+        </div>
+
+        <div class="col-md-5">
+
+          <div class="well well-lg">
+
+            <div class="row">
+
+              <div class="col-sm-12">
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div><!-- /cont -->
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+          <div class="top-spacer"> </div>
+
+        </div>
+
+      </div>
+
+    </div><!-- /cont -->
+  </div>
+
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-12">
+
+        <div class="panel">
+          <div class="panel-body">
+            <!--/stories-->
+           
+     </div>
+      </div>
+  	</div><!--/col-12-->
+  </div>
+</div>
+<hr>
+</body>
+
+</html>
