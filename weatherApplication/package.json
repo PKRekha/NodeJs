@@ -1,0 +1,22 @@
+{
+  "name": "weatherapplication",
+  "version": "1.0.0",
+  "description": "weather Application by calling expernal paryt api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "weather",
+    "request",
+    "package"
+  ],
+  "author": "Rekha",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
