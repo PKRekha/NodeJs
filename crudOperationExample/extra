@@ -1,0 +1,47 @@
+this is extra file contains some information regarding crud operations using mongodb.
+
+first we need packages like : express, mongodb, nodemon, ejs, body-parser
+
+express: express package is a framework of node js written in javascript.
+mongodb: it is a database, which is nosql, and in json format.
+nodemon: nodemon package will make  us not to restart and rebuild the application everytime.
+ejs: ejs is a view engine, which is equivalent to front end like (angular, react, angular js), as here we are not
+using them, as a view engine  we are using ejs.
+
+in real time, these days ejs is not being used, as it is not for developing single page applications.
+to create single page applications we wiBabel:
+    generally we write the code in either es5 or es6(latest version es2015), as a trending thing everybody write the 
+    code in latest es6 version.if our complete file is in ES6 version, then browser will not able to
+    understand ES6 version , and it needs to be converted to ES5 and then it has to be executed.
+    for this purpose, to change or to transpile the code from one version to another version, we use babel.
+    babel will change the ES6 file to ES5 file , then execute it.
+    to work with ll user either Angular or React.
+
+body-parser: body-parser package is used to display the body part of the api, which is being developed by us.
+
+CRUD: CREATE, READ, UPDATE, DELETE
+
+coarse problem:
+    If our node application is running on one port and our front end framework is working on anohter port, then we will get an error saying
+    coarse error, to resolve coarse problem we need to set Headers.
+
+    res.setHeader('Access-Control-Allow-Origin','*');
+    res.setHeader('Access-Control-Allow_headers','Origin,X-Request-with,Content-type,Accept');
+
+after setting these two headers, it will not give any error.
+
+Babel:
+    generally we write the code in either es5 or es6(latest version es2015), as a trending thing everybody write the 
+    code in latest es6 version.if our complete file is in ES6 version, then compiler will not able to
+    understand ES6 version , and it needs to be converted to ES5 and then it has to be executed.
+    for this purpose, to change or to transpile the code from one version to another version, we use babel.
+    babel will change the ES6 file to ES5 file , then execute it.
+    to work with babel, we need to install the below packages.
+
+    1) @babel/core
+    2)@babel/preset-env
+    3)@babel/register
+    4)@babel/polifill
+
+    then we need to make a file called .babelrc
+    
