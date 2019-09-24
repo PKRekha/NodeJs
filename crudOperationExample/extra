@@ -45,3 +45,8 @@ Babel:
 
     then we need to make a file called .babelrc
     
+    and we have to create one js file, in to which we have to rewrite the ES6 code into ES5, then we have to start the application from
+    this point, by mentioning in the package.json, if we specify in nodemon app.js, then we
+    need to change that to "nodemon start.js"
+
+    
