@@ -41,9 +41,44 @@ app.post('/postuser',(req,res)=>{
         if(err){
             res.status(401).send('error while inserting record!!!!!');
         }else{
+            res.setHeader("Access-Control-Allow-Origin", "*");
+            res.setHeader(
+              "Access-Control-Allow_headers",
+              "Origin,X-Request-with,Content-type,Accept"
+            );
             res.status(200).send('records added sucessfully');
         }
     })
-})
+});
+
+app.put('/putuser',(req,res)=>{
+    db.collection(col_name).findOneAndUpdate({"id":req.body.id},
+    {$set:{
+        id:req.body.id,
+        name:req.body.name
+    }},
+    {upsert:true},
+    (err,data)=>{
+        if(err) throw err;
+        res.setHeader("Access-Control-Allow-Origin", "*");
+        res.setHeader(
+          "Access-Control-Allow_headers",
+          "Origin,X-Request-with,Content-type,Accept"
+        );
+        res.send('data updated sucessfully!!!');
+    });
+});
+
+app.delete('/deleteuser',(req,res)=>{
+    db.collection(col_name).findOneAndDelete({"id":req.body.id},(err,data)=>{
+        if(err) throw err;
+        res.setHeader("Access-Control-Allow-Origin", "*");
+        res.setHeader(
+          "Access-Control-Allow_headers",
+          "Origin,X-Request-with,Content-type,Accept"
+        );
+        res.send('Record deleted sucessfully!!!');
+    });
+});
 
 
