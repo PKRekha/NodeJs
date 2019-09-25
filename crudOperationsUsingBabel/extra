@@ -1,0 +1,20 @@
+Babel:
+    generally we write the code in either es5 or es6(latest version es2015), as a trending thing everybody write the 
+    code in latest es6 version.if our complete file is in ES6 version, then compiler will not able to
+    understand ES6 version , and it needs to be converted to ES5 and then it has to be executed.
+    for this purpose, to change or to transpile the code from one version to another version, we use babel.
+    babel will change the ES6 file to ES5 file , then execute it.
+    to work with babel, we need to install the below packages.
+
+    1) @babel/core
+    2)@babel/preset-env
+    3)@babel/register
+    4)@babel/polifill
+
+    then we need to make a file called .babelrc
+    
+    and we have to create one js file, in to which we have to rewrite the ES6 code into ES5, then we have to start the application from
+    this point, by mentioning in the package.json, if we specify in nodemon app.js, then we
+    need to change that to "nodemon start.js"
+
+    
