@@ -1,0 +1,17 @@
+this application is complete crud operation using mongo db and with UI using ejs view engine.
+
+and we used babel also by writing my code in es6.
+
+packages imported:
+
+express
+mongodb
+ejs
+body-parser
+@babel/core
+@babel/register
+@babel/preset-env
+
+by creating form using bootstrap, and jquery datatable, we created a table, by using these two,
+we communicated with the back end . i.e nodejs and mongo db.
+
