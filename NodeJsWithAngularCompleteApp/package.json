@@ -1,0 +1,22 @@
+{
+  "name": "nodejswithangularcompleteapp",
+  "version": "1.0.0",
+  "description": "node js with angular, compelte application using build and run",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "angular",
+    "build",
+    "serve",
+    "start"
+  ],
+  "author": "Rekha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  }
+}

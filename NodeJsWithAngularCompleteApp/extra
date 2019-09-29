@@ -1,0 +1,15 @@
+this application is to run the anuglar and using node js i am trying to run the application.
+
+IN this application I am trying to build this and run through node js server.
+
+to do so,
+first build the application using ng build
+and then after that dist folder with files will be generated in the application.
+copy the files from the dist folder and then 
+
+from node js part:
+
+create simple node js appliction, with server connectivity.
+open the nodejs application in visual studio code, then copy the files from the dist folder in to node js app folder
+now run the application.
+
