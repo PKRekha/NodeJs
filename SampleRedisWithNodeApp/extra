@@ -1,0 +1,60 @@
+This application is to coonect with Redis database:
+
+Redis database is INmemory database, which will store the data in main memory, it means it
+will not save data on disk, hence it is not persistant.
+
+as it is not saved on disk, the response time to get the response it very fast.
+for the first time, it will connect to the actual ddatabase such as mondodo, and from the
+second time, if the same operation is happeninig, then it will be saved in redis and from there
+only we will get the data, hence time to get the data is too fast than getting it from mongo.
+
+In real time, we use redis db , in cases as
+if we use the data frequently then we place that in redis, and
+the data , which we don't use regularly, then we can place it in mongo.
+
+so that we can make use of it fully(redis inmemory db).
+
+to work with redis we need to install redis on windows system.
+check on https://redislabs.com/blog/redis-on-windows-10/
+and do accordingly, after that you will be able to run the application.
+
+for this application, we need:
+
+npm i express nodemon redis response-time axios
+
+if we work with babel, as usual we need these also.
+
+npm i @babel/core @babel/register @babel/preset-env
+
+
+npm i axios
+axios is to call the api in node as request.
+
+like npm i request, we have
+npm i axios
+both will do the same.
+-----------------------
+
+here one more new point in the application:
+
+running tha app in dev mode or start mode;
+in package.json, we can specify, the below.
+
+"start": "node start.js"
+"dev": "nodemon start.js"
+
+
+---------------------------------
+here we have used concept called promises.
+
+A promise is somthing, that a function or call back funtion will wait for the function to be
+executed, and then only, it will procedd with the next function or callback.
+
+we used .then(), and .catch()
+these are used for promises.
+
+the above are used in old versions like es5,
+
+and in ES6 we have async and await.
+
+both will do the same functionality.

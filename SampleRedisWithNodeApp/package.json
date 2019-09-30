@@ -1,0 +1,27 @@
+{
+  "name": "samplerediswithnodeapp",
+  "version": "1.0.0",
+  "description": "redis connectivity with node application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js",
+    "rekha":"nodemon start.js"  
+  },
+  "keywords": [
+    "nodejs",
+    "redis",
+    "express"
+  ],
+  "author": "Rekha",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "@babel/register": "^7.6.2",
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3",
+    "redis": "^2.8.0",
+    "response-time": "^2.3.2"
+  }
+}
