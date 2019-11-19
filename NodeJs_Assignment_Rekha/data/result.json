@@ -1,0 +1,1697 @@
+
+{"teams":[{"id":1,
+"name":"Team #1",
+"sport":"Football",
+"students":[{"id":99,
+"fullName":"Ward Brekonridge"
+},
+{"id":203,
+"fullName":"Trudy Wynett"
+},
+{"id":215,
+"fullName":"Shelby De Francisci"
+},
+{"id":315,
+"fullName":"Hilliard Aubury"
+}]
+},
+{"id":2,
+"name":"Team #2",
+"sport":"Rugby",
+"students":[{"id":101,
+"fullName":"Natalina Swires"
+},
+{"id":177,
+"fullName":"Moll Caze"
+},
+{"id":345,
+"fullName":"Kimberlyn Eilhersen"
+}]
+},
+{"id":3,
+"name":"Team #3",
+"sport":"Hockey",
+"students":[{"id":95,
+"fullName":"Leona Stroud"
+},
+{"id":214,
+"fullName":"Hillary Carlesso"
+},
+{"id":321,
+"fullName":"Aime Serotsky"
+},
+{"id":394,
+"fullName":"Lynsey McElree"
+},
+{"id":398,
+"fullName":"Duff Plak"
+}]
+},
+{"id":4,
+"name":"Team #4",
+"sport":"Football",
+"students":[{"id":179,
+"fullName":"Shara Mowlam"
+},
+{"id":224,
+"fullName":"Alida Patemore"
+},
+{"id":414,
+"fullName":"Beck Thaxter"
+}]
+},
+{"id":5,
+"name":"Team #5",
+"sport":"Hockey",
+"students":[{"id":78,
+"fullName":"Godfrey Revance"
+}]
+},
+{"id":6,
+"name":"Team #6",
+"sport":"Basketball",
+"students":[{"id":133,
+"fullName":"Rebeca Macauley"
+},
+{"id":167,
+"fullName":"Hilton Combe"
+}]
+},
+{"id":7,
+"name":"Team #7",
+"sport":"Tennis",
+"students":[{"id":21,
+"fullName":"Ambrosio Cazereau"
+},
+{"id":41,
+"fullName":"Myrna Barnwall"
+},
+{"id":137,
+"fullName":"Ninon Prandini"
+},
+{"id":306,
+"fullName":"Wilhelm Covil"
+},
+{"id":352,
+"fullName":"Blisse Shepcutt"
+},
+{"id":458,
+"fullName":"Jodee Handrick"
+}]
+},
+{"id":8,
+"name":"Team #8",
+"sport":"Tennis",
+"students":[{"id":247,
+"fullName":"Perry Braim"
+},
+{"id":261,
+"fullName":"Stillmann Banasevich"
+},
+{"id":350,
+"fullName":"Josefina Grealey"
+},
+{"id":444,
+"fullName":"Angelico Dalgarnowch"
+},
+{"id":482,
+"fullName":"Wittie Albro"
+}]
+},
+{"id":9,
+"name":"Team #9",
+"sport":"Cricket",
+"students":[{"id":51,
+"fullName":"Delcine De Ferrari"
+},
+{"id":62,
+"fullName":"Abelard Worley"
+},
+{"id":121,
+"fullName":"Travus Marlow"
+},
+{"id":160,
+"fullName":"Iona Worsell"
+},
+{"id":239,
+"fullName":"Torrence Klempke"
+},
+{"id":308,
+"fullName":"Lezlie Couldwell"
+},
+{"id":462,
+"fullName":"Arte Sher"
+},
+{"id":470,
+"fullName":"Lora Hitcham"
+}]
+},
+{"id":10,
+"name":"Team #10",
+"sport":"Tennis",
+"students":[{"id":104,
+"fullName":"Joan Covil"
+},
+{"id":119,
+"fullName":"Alvira Tritton"
+},
+{"id":181,
+"fullName":"Sabina Beaby"
+},
+{"id":222,
+"fullName":"Kamillah Tattershall"
+},
+{"id":277,
+"fullName":"Fifi Swaite"
+},
+{"id":368,
+"fullName":"Abrahan Sisley"
+},
+{"id":389,
+"fullName":"Eachelle Staten"
+}]
+},
+{"id":11,
+"name":"Team #11",
+"sport":"Hockey",
+"students":[{"id":49,
+"fullName":"Ingaberg Claw"
+},
+{"id":77,
+"fullName":"Bertram Hulse"
+},
+{"id":120,
+"fullName":"Lorilyn Fortoun"
+},
+{"id":131,
+"fullName":"Arlen Vairow"
+},
+{"id":136,
+"fullName":"Davey Dollimore"
+},
+{"id":226,
+"fullName":"Victoria Kaubisch"
+},
+{"id":406,
+"fullName":"Kurt Wordington"
+},
+{"id":411,
+"fullName":"Kenon Waggett"
+},
+{"id":473,
+"fullName":"Elana Scorah"
+},
+{"id":491,
+"fullName":"Corena Trevascus"
+}]
+},
+{"id":12,
+"name":"Team #12",
+"sport":"Netball",
+"students":[{"id":92,
+"fullName":"Retha Jerwood"
+},
+{"id":250,
+"fullName":"Sharon Lisciandro"
+},
+{"id":314,
+"fullName":"Heddi Crat"
+},
+{"id":457,
+"fullName":"Madelena Mullinger"
+},
+{"id":480,
+"fullName":"Goldie Busst"
+},
+{"id":490,
+"fullName":"Lawry Benne"
+}]
+},
+{"id":13,
+"name":"Team #13",
+"sport":"Football",
+"students":[{"id":27,
+"fullName":"Miguel Dameisele"
+},
+{"id":83,
+"fullName":"Dena Creany"
+},
+{"id":154,
+"fullName":"Sissie Sydes"
+},
+{"id":188,
+"fullName":"Kittie Vidineev"
+},
+{"id":221,
+"fullName":"Farrell Keitch"
+},
+{"id":245,
+"fullName":"D'arcy Tregonna"
+},
+{"id":288,
+"fullName":"Phebe Grinyov"
+},
+{"id":296,
+"fullName":"Sephira Jones"
+},
+{"id":348,
+"fullName":"Tildie Rohlfing"
+},
+{"id":410,
+"fullName":"Shandeigh Oxbie"
+},
+{"id":468,
+"fullName":"Ransell Lohden"
+},
+{"id":477,
+"fullName":"Bab Blenkinsop"
+},
+{"id":499,
+"fullName":"Janina Brauninger"
+}]
+},
+{"id":14,
+"name":"Team #14",
+"sport":"Rugby",
+"students":[{"id":76,
+"fullName":"Dell Chezier"
+},
+{"id":141,
+"fullName":"Orelle Penberthy"
+},
+{"id":217,
+"fullName":"Joan Cropp"
+},
+{"id":331,
+"fullName":"Freda Blenkiron"
+},
+{"id":412,
+"fullName":"Sue Nutbeam"
+},
+{"id":479,
+"fullName":"Shirleen Dyson"
+}]
+},
+{"id":15,
+"name":"Team #15",
+"sport":"Netball",
+"students":[{"id":65,
+"fullName":"Evan Ludford"
+},
+{"id":186,
+"fullName":"Christine Olivia"
+},
+{"id":190,
+"fullName":"Ginger Kondratenko"
+},
+{"id":258,
+"fullName":"Friedrick Maleney"
+},
+{"id":357,
+"fullName":"Gabi Harverson"
+},
+{"id":429,
+"fullName":"Sofie Whitney"
+},
+{"id":483,
+"fullName":"Sherri Eim"
+}]
+},
+{"id":16,
+"name":"Team #16",
+"sport":"Football",
+"students":[{"id":17,
+"fullName":"Felizio Bly"
+},
+{"id":24,
+"fullName":"Jacinda Biggerdike"
+},
+{"id":139,
+"fullName":"Kaia Atley"
+},
+{"id":206,
+"fullName":"Kendricks Zapata"
+},
+{"id":284,
+"fullName":"Raddie Tocher"
+},
+{"id":392,
+"fullName":"Welch Lindgren"
+},
+{"id":435,
+"fullName":"Paddie Di Bartolommeo"
+},
+{"id":448,
+"fullName":"Sonnnie Guillerman"
+},
+{"id":451,
+"fullName":"Kalle Trillow"
+}]
+},
+{"id":17,
+"name":"Team #17",
+"sport":"Basketball",
+"students":[{"id":56,
+"fullName":"Elvis Gosse"
+},
+{"id":59,
+"fullName":"Mac Thalmann"
+},
+{"id":103,
+"fullName":"Virgilio Bridgewater"
+},
+{"id":145,
+"fullName":"Felicdad Bromfield"
+},
+{"id":157,
+"fullName":"Garald Mussington"
+},
+{"id":227,
+"fullName":"Elli Eplett"
+},
+{"id":355,
+"fullName":"Myles Peddel"
+},
+{"id":432,
+"fullName":"Verena Serraillier"
+}]
+},
+{"id":18,
+"name":"Team #18",
+"sport":"Basketball",
+"students":[{"id":84,
+"fullName":"Hamilton Scrannage"
+},
+{"id":102,
+"fullName":"Franchot Debill"
+},
+{"id":164,
+"fullName":"Isidro McGing"
+},
+{"id":170,
+"fullName":"Verge Yardy"
+},
+{"id":229,
+"fullName":"Wadsworth de Quesne"
+},
+{"id":271,
+"fullName":"Rosaline Marti"
+},
+{"id":319,
+"fullName":"Keelby O'Bruen"
+}]
+},
+{"id":19,
+"name":"Team #19",
+"sport":"Rugby",
+"students":[{"id":86,
+"fullName":"Roarke MacLure"
+},
+{"id":282,
+"fullName":"Lilah Filmer"
+},
+{"id":356,
+"fullName":"Isa Crat"
+},
+{"id":373,
+"fullName":"Helen-elizabeth Sutterby"
+},
+{"id":428,
+"fullName":"Toinette Heed"
+}]
+},
+{"id":20,
+"name":"Team #20",
+"sport":"Basketball",
+"students":[{"id":53,
+"fullName":"Brook Faircley"
+},
+{"id":205,
+"fullName":"Osgood Bompass"
+},
+{"id":272,
+"fullName":"Willdon Burghill"
+}]
+},
+{"id":21,
+"name":"Team #21",
+"sport":"Basketball",
+"students":[{"id":82,
+"fullName":"Latisha Braidford"
+},
+{"id":199,
+"fullName":"Jerrylee Lukovic"
+},
+{"id":244,
+"fullName":"Adham Sexton"
+},
+{"id":311,
+"fullName":"Ephrem Gonning"
+},
+{"id":334,
+"fullName":"Loutitia Plevin"
+},
+{"id":383,
+"fullName":"Celestina Phorsby"
+},
+{"id":399,
+"fullName":"Hally Corss"
+},
+{"id":426,
+"fullName":"Courtnay Seleway"
+}]
+},
+{"id":22,
+"name":"Team #22",
+"sport":"Netball",
+"students":[{"id":8,
+"fullName":"Catlaina Mee"
+},
+{"id":64,
+"fullName":"Aluino Pringley"
+},
+{"id":70,
+"fullName":"Carola Cornelisse"
+},
+{"id":79,
+"fullName":"Polly Frigot"
+},
+{"id":87,
+"fullName":"Joeann Jepperson"
+},
+{"id":106,
+"fullName":"Winonah Sapp"
+},
+{"id":129,
+"fullName":"Myrle Gashion"
+},
+{"id":155,
+"fullName":"Lizzie McManus"
+},
+{"id":180,
+"fullName":"Anette Nesey"
+},
+{"id":276,
+"fullName":"Kaylyn Smidmor"
+},
+{"id":281,
+"fullName":"Correy Jarlmann"
+},
+{"id":339,
+"fullName":"Wilona Wyne"
+},
+{"id":343,
+"fullName":"Ewen Shervil"
+},
+{"id":424,
+"fullName":"Eddie Debell"
+},
+{"id":443,
+"fullName":"Morty Streatley"
+}]
+},
+{"id":23,
+"name":"Team #23",
+"sport":"Football",
+"students":[{"id":20,
+"fullName":"Chico Gardiner"
+},
+{"id":52,
+"fullName":"Zebedee Moscrop"
+},
+{"id":267,
+"fullName":"Giffie Collete"
+},
+{"id":322,
+"fullName":"Dom MacTrustey"
+},
+{"id":449,
+"fullName":"Marylinda Macia"
+},
+{"id":496,
+"fullName":"Bryant Episcopi"
+}]
+},
+{"id":24,
+"name":"Team #24",
+"sport":"Rugby",
+"students":[{"id":12,
+"fullName":"Malina Hrycek"
+},
+{"id":98,
+"fullName":"Bianca Kornyakov"
+},
+{"id":225,
+"fullName":"Chadwick Raycroft"
+},
+{"id":362,
+"fullName":"Magdaia Meachen"
+},
+{"id":461,
+"fullName":"Wenda Anthiftle"
+},
+{"id":476,
+"fullName":"Demeter Gantz"
+}]
+},
+{"id":25,
+"name":"Team #25",
+"sport":"Rugby",
+"students":[{"id":11,
+"fullName":"Willard Armsby"
+},
+{"id":46,
+"fullName":"Sherri Mac"
+},
+{"id":61,
+"fullName":"Annecorinne Colbourn"
+}]
+},
+{"id":26,
+"name":"Team #26",
+"sport":"Cricket",
+"students":[{"id":148,
+"fullName":"Felix Bugg"
+},
+{"id":202,
+"fullName":"Hube Yarrall"
+},
+{"id":242,
+"fullName":"Gisela Marvelley"
+},
+{"id":248,
+"fullName":"Eloisa Wales"
+},
+{"id":302,
+"fullName":"Wally Donan"
+},
+{"id":395,
+"fullName":"Valry Devennie"
+},
+{"id":495,
+"fullName":"Dieter Craster"
+}]
+},
+{"id":27,
+"name":"Team #27",
+"sport":"Tennis",
+"students":[{"id":134,
+"fullName":"Templeton Tokell"
+},
+{"id":166,
+"fullName":"Marco Brimble"
+},
+{"id":208,
+"fullName":"Jayne Stockdale"
+},
+{"id":423,
+"fullName":"Torry Clowton"
+},
+{"id":425,
+"fullName":"Ginny Dewane"
+}]
+},
+{"id":28,
+"name":"Team #28",
+"sport":"Basketball",
+"students":[{"id":241,
+"fullName":"Gabriellia Duckwith"
+},
+{"id":347,
+"fullName":"Dorey Casarili"
+}]
+},
+{"id":29,
+"name":"Team #29",
+"sport":"Netball",
+"students":[{"id":55,
+"fullName":"Daffie Snape"
+},
+{"id":67,
+"fullName":"Madalyn Van Der Hoog"
+},
+{"id":75,
+"fullName":"Katina Killingsworth"
+},
+{"id":128,
+"fullName":"Henri Claiton"
+},
+{"id":142,
+"fullName":"Marlin Brewer"
+},
+{"id":218,
+"fullName":"Federico Cianni"
+},
+{"id":232,
+"fullName":"Cynde Vise"
+},
+{"id":266,
+"fullName":"Hyacinth Lukasen"
+},
+{"id":324,
+"fullName":"Gregor Averay"
+},
+{"id":471,
+"fullName":"Agathe Spreadbury"
+},
+{"id":492,
+"fullName":"Matti Killeley"
+}]
+},
+{"id":30,
+"name":"Team #30",
+"sport":"Rugby",
+"students":[{"id":13,
+"fullName":"Con Freeburn"
+},
+{"id":66,
+"fullName":"Melessa Gilford"
+},
+{"id":89,
+"fullName":"Loy Kolodziej"
+},
+{"id":118,
+"fullName":"Hebert Kobiela"
+},
+{"id":156,
+"fullName":"Mariel Navarro"
+},
+{"id":309,
+"fullName":"Juliann Kenner"
+},
+{"id":453,
+"fullName":"Sergeant Ondrousek"
+},
+{"id":481,
+"fullName":"Mercedes Curme"
+}]
+},
+{"id":31,
+"name":"Team #31",
+"sport":"Cricket",
+"students":[{"id":117,
+"fullName":"Phillipe Goodridge"
+},
+{"id":210,
+"fullName":"Dominique Nares"
+},
+{"id":252,
+"fullName":"Eirena Beggi"
+},
+{"id":294,
+"fullName":"Sayres Tothacot"
+},
+{"id":346,
+"fullName":"Zacharia Mival"
+},
+{"id":433,
+"fullName":"Currie Elson"
+},
+{"id":460,
+"fullName":"Chloette Rubra"
+}]
+},
+{"id":32,
+"name":"Team #32",
+"sport":"Tennis",
+"students":[{"id":94,
+"fullName":"Lynelle Yaneev"
+},
+{"id":105,
+"fullName":"Giacobo Ruddock"
+},
+{"id":130,
+"fullName":"Mella Corkell"
+},
+{"id":149,
+"fullName":"Charyl Padefield"
+},
+{"id":254,
+"fullName":"Paulina Churly"
+},
+{"id":359,
+"fullName":"Hope Kingett"
+},
+{"id":375,
+"fullName":"Dannye Korb"
+}]
+},
+{"id":33,
+"name":"Team #33",
+"sport":"Cricket",
+"students":[{"id":7,
+"fullName":"Ashlen Karmel"
+},
+{"id":97,
+"fullName":"Ichabod Ownsworth"
+},
+{"id":341,
+"fullName":"Puff Parnby"
+},
+{"id":436,
+"fullName":"Douglas Royall"
+},
+{"id":441,
+"fullName":"Gian Vandrill"
+}]
+},
+{"id":34,
+"name":"Team #34",
+"sport":"Tennis",
+"students":[{"id":80,
+"fullName":"Katalin Duffitt"
+},
+{"id":111,
+"fullName":"Reine Mixter"
+},
+{"id":291,
+"fullName":"Arny Clack"
+},
+{"id":332,
+"fullName":"Angelia Axon"
+}]
+},
+{"id":35,
+"name":"Team #35",
+"sport":"Basketball",
+"students":[{"id":5,
+"fullName":"Gideon Teaze"
+},
+{"id":10,
+"fullName":"Allix Povlsen"
+},
+{"id":33,
+"fullName":"Vincenz Goding"
+},
+{"id":114,
+"fullName":"Laurianne Sowte"
+},
+{"id":135,
+"fullName":"Bel Hofler"
+},
+{"id":183,
+"fullName":"Clarance Duval"
+},
+{"id":209,
+"fullName":"Milicent Youel"
+},
+{"id":211,
+"fullName":"Finlay Dack"
+},
+{"id":260,
+"fullName":"Junette Kupke"
+},
+{"id":310,
+"fullName":"Camellia Munt"
+},
+{"id":349,
+"fullName":"Cathlene Wormleighton"
+},
+{"id":407,
+"fullName":"Kassi Geistbeck"
+}]
+},
+{"id":36,
+"name":"Team #36",
+"sport":"Cricket",
+"students":[{"id":220,
+"fullName":"Emory Derkes"
+},
+{"id":382,
+"fullName":"Dedra Ofield"
+},
+{"id":402,
+"fullName":"Solomon Bredee"
+},
+{"id":486,
+"fullName":"Wye Murrigan"
+}]
+},
+{"id":37,
+"name":"Team #37",
+"sport":"Football",
+"students":[{"id":3,
+"fullName":"Fancy Tremollet"
+},
+{"id":30,
+"fullName":"Leigh Riddock"
+},
+{"id":191,
+"fullName":"Ashly Barclay"
+},
+{"id":230,
+"fullName":"Penelopa Kretchmer"
+},
+{"id":234,
+"fullName":"Rose Joire"
+},
+{"id":243,
+"fullName":"Caro Monketon"
+},
+{"id":275,
+"fullName":"Kurtis Gierhard"
+},
+{"id":328,
+"fullName":"Andreana Jacqueme"
+},
+{"id":416,
+"fullName":"Florie Goring"
+}]
+},
+{"id":38,
+"name":"Team #38",
+"sport":"Football",
+"students":[{"id":279,
+"fullName":"Lynett Barca"
+},
+{"id":335,
+"fullName":"Leona Ochterlonie"
+},
+{"id":358,
+"fullName":"Avril Weathey"
+},
+{"id":380,
+"fullName":"Gabriella Hugli"
+},
+{"id":404,
+"fullName":"Fayette Krout"
+}]
+},
+{"id":39,
+"name":"Team #39",
+"sport":"Rugby",
+"students":[{"id":140,
+"fullName":"Arlene Pendrigh"
+},
+{"id":158,
+"fullName":"Madalyn Wemm"
+},
+{"id":251,
+"fullName":"Lorianne Bubear"
+},
+{"id":299,
+"fullName":"Ernest Pipes"
+},
+{"id":405,
+"fullName":"Lenka Cordelle"
+}]
+},
+{"id":40,
+"name":"Team #40",
+"sport":"Football",
+"students":[{"id":28,
+"fullName":"Ruby Presdie"
+},
+{"id":193,
+"fullName":"Herbert Realff"
+},
+{"id":198,
+"fullName":"Inge Ballintime"
+},
+{"id":342,
+"fullName":"Joshua Longford"
+},
+{"id":381,
+"fullName":"Kristofer Daid"
+},
+{"id":384,
+"fullName":"Florence Forrestill"
+},
+{"id":400,
+"fullName":"Claudian Achurch"
+},
+{"id":431,
+"fullName":"Marcelle Pietzker"
+}]
+},
+{"id":41,
+"name":"Team #41",
+"sport":"Basketball",
+"students":[{"id":40,
+"fullName":"Eva Batecok"
+},
+{"id":60,
+"fullName":"Lita Paradin"
+},
+{"id":72,
+"fullName":"Carolann Seaward"
+},
+{"id":401,
+"fullName":"Maurizia Bartol"
+},
+{"id":442,
+"fullName":"Lucille O'Cannovane"
+}]
+},
+{"id":42,
+"name":"Team #42",
+"sport":"Netball",
+"students":[{"id":22,
+"fullName":"Lowe Mathivet"
+},
+{"id":90,
+"fullName":"Claire Czadla"
+},
+{"id":93,
+"fullName":"Sutton Giordano"
+},
+{"id":197,
+"fullName":"Ninon Gunthorpe"
+},
+{"id":270,
+"fullName":"Arlan Hevner"
+},
+{"id":305,
+"fullName":"Philomena Bitterton"
+}]
+},
+{"id":43,
+"name":"Team #43",
+"sport":"Netball",
+"students":[{"id":54,
+"fullName":"Reeba Ivanikhin"
+},
+{"id":223,
+"fullName":"Kessia Begin"
+},
+{"id":287,
+"fullName":"Nicoline Lynagh"
+},
+{"id":295,
+"fullName":"Trstram Ambrodi"
+},
+{"id":336,
+"fullName":"Neal Veltmann"
+},
+{"id":337,
+"fullName":"Carmine Duckhouse"
+},
+{"id":385,
+"fullName":"Stephan Dur"
+},
+{"id":467,
+"fullName":"Porty Twining"
+}]
+},
+{"id":44,
+"name":"Team #44",
+"sport":"Netball",
+"students":[{"id":39,
+"fullName":"Natassia Hardern"
+},
+{"id":58,
+"fullName":"Kellina Mercer"
+},
+{"id":88,
+"fullName":"Abelard Geffinger"
+},
+{"id":144,
+"fullName":"Candace Clerke"
+},
+{"id":253,
+"fullName":"Dynah Loiterton"
+},
+{"id":262,
+"fullName":"Bertina Severwright"
+},
+{"id":263,
+"fullName":"Gabriel Fearon"
+},
+{"id":298,
+"fullName":"Gualterio Skotcher"
+},
+{"id":330,
+"fullName":"Shara Gerding"
+},
+{"id":379,
+"fullName":"Rochette Swash"
+},
+{"id":397,
+"fullName":"Dun Jago"
+}]
+},
+{"id":45,
+"name":"Team #45",
+"sport":"Basketball",
+"students":[{"id":172,
+"fullName":"Gladi Corzor"
+},
+{"id":255,
+"fullName":"Perceval Exer"
+},
+{"id":285,
+"fullName":"Randolph Torbeck"
+},
+{"id":303,
+"fullName":"Jemimah Snel"
+},
+{"id":421,
+"fullName":"Garv Badcock"
+}]
+},
+{"id":46,
+"name":"Team #46",
+"sport":"Football",
+"students":[{"id":14,
+"fullName":"Nedda O'Flaherty"
+},
+{"id":34,
+"fullName":"Beniamino McAllester"
+},
+{"id":163,
+"fullName":"Sheppard Jecks"
+},
+{"id":268,
+"fullName":"Anastasie Jekyll"
+},
+{"id":484,
+"fullName":"Hetty Turpin"
+}]
+},
+{"id":47,
+"name":"Team #47",
+"sport":"Football",
+"students":[{"id":29,
+"fullName":"Kellen Smullin"
+},
+{"id":185,
+"fullName":"Humfrey Buckney"
+},
+{"id":323,
+"fullName":"Chadd Macak"
+},
+{"id":469,
+"fullName":"Si McGeever"
+},
+{"id":474,
+"fullName":"Silvana Dandison"
+}]
+},
+{"id":48,
+"name":"Team #48",
+"sport":"Hockey",
+"students":[{"id":25,
+"fullName":"Berna Laborde"
+},
+{"id":69,
+"fullName":"Karrie Macari"
+},
+{"id":207,
+"fullName":"Theo Minchenton"
+},
+{"id":231,
+"fullName":"Siusan MacKimmie"
+},
+{"id":237,
+"fullName":"Salim Umbert"
+},
+{"id":259,
+"fullName":"Osborn Birth"
+},
+{"id":329,
+"fullName":"Lavinie Davidovics"
+},
+{"id":370,
+"fullName":"Oneida Parkes"
+},
+{"id":437,
+"fullName":"Thedrick Cannop"
+},
+{"id":438,
+"fullName":"Fabiano Engall"
+}]
+},
+{"id":49,
+"name":"Team #49",
+"sport":"Football",
+"students":[{"id":1,
+"fullName":"Rip Doody"
+},
+{"id":74,
+"fullName":"Cristy Clitsome"
+},
+{"id":100,
+"fullName":"Devan Cordeau"
+},
+{"id":113,
+"fullName":"Jacquelyn Reidshaw"
+},
+{"id":159,
+"fullName":"Yolande Escott"
+},
+{"id":187,
+"fullName":"Melly Widmore"
+},
+{"id":219,
+"fullName":"De witt Lux"
+},
+{"id":313,
+"fullName":"Gino Giacoboni"
+}]
+},
+{"id":50,
+"name":"Team #50",
+"sport":"Tennis",
+"students":[{"id":366,
+"fullName":"Glen Brownsmith"
+}]
+},
+{"id":51,
+"name":"Team #51",
+"sport":"Football",
+"students":[{"id":35,
+"fullName":"Neille Snoden"
+},
+{"id":45,
+"fullName":"Bale Pestricke"
+},
+{"id":286,
+"fullName":"Onida De Antoni"
+},
+{"id":333,
+"fullName":"Tadeas Udden"
+},
+{"id":351,
+"fullName":"Brittany Cars"
+},
+{"id":485,
+"fullName":"Lauretta Feldheim"
+}]
+},
+{"id":52,
+"name":"Team #52",
+"sport":"Cricket",
+"students":[{"id":48,
+"fullName":"Jesse Bottomley"
+},
+{"id":204,
+"fullName":"Anabel Cayette"
+},
+{"id":257,
+"fullName":"Alexandre Cayet"
+},
+{"id":390,
+"fullName":"Christabella Ambrogioli"
+},
+{"id":430,
+"fullName":"Petey Madle"
+}]
+},
+{"id":53,
+"name":"Team #53",
+"sport":"Netball",
+"students":[{"id":6,
+"fullName":"Kendricks Mitham"
+},
+{"id":36,
+"fullName":"Janos Hannaby"
+},
+{"id":85,
+"fullName":"Faith Hauch"
+},
+{"id":171,
+"fullName":"Ambros Zohrer"
+},
+{"id":173,
+"fullName":"Burl Wigsell"
+},
+{"id":409,
+"fullName":"Vida Stair"
+},
+{"id":420,
+"fullName":"Duff Crudgington"
+},
+{"id":488,
+"fullName":"Rowe Brach"
+}]
+},
+{"id":54,
+"name":"Team #54",
+"sport":"Cricket",
+"students":[{"id":301,
+"fullName":"Marty Pechold"
+},
+{"id":318,
+"fullName":"Hyacintha Lenox"
+},
+{"id":418,
+"fullName":"Kingsley Haye"
+}]
+},
+{"id":55,
+"name":"Team #55",
+"sport":"Tennis",
+"students":[{"id":2,
+"fullName":"Che Charlson"
+},
+{"id":126,
+"fullName":"Nikki Uff"
+},
+{"id":233,
+"fullName":"Nickolas Shrubsall"
+},
+{"id":439,
+"fullName":"Breena Nund"
+}]
+},
+{"id":56,
+"name":"Team #56",
+"sport":"Cricket",
+"students":[{"id":124,
+"fullName":"Ardella Mackilpatrick"
+},
+{"id":143,
+"fullName":"Maitilde Studders"
+},
+{"id":422,
+"fullName":"Irwin Managh"
+},
+{"id":452,
+"fullName":"Hy Hamson"
+},
+{"id":465,
+"fullName":"Herb Pulsford"
+}]
+},
+{"id":57,
+"name":"Team #57",
+"sport":"Netball",
+"students":[{"id":116,
+"fullName":"Yasmin Kewish"
+},
+{"id":138,
+"fullName":"Robenia Vittel"
+},
+{"id":195,
+"fullName":"Peri Bebb"
+},
+{"id":434,
+"fullName":"Elset Doogan"
+}]
+},
+{"id":58,
+"name":"Team #58",
+"sport":"Cricket",
+"students":[{"id":4,
+"fullName":"Curt Playle"
+},
+{"id":47,
+"fullName":"Bendick Nolte"
+},
+{"id":96,
+"fullName":"Kelli Poytress"
+},
+{"id":264,
+"fullName":"Laird Melesk"
+},
+{"id":312,
+"fullName":"Lynnett Paule"
+},
+{"id":455,
+"fullName":"Sammy Levicount"
+}]
+},
+{"id":59,
+"name":"Team #59",
+"sport":"Hockey",
+"students":[{"id":73,
+"fullName":"Sheryl Hanrott"
+},
+{"id":132,
+"fullName":"Ladonna Antoniewski"
+},
+{"id":150,
+"fullName":"Dominga Valler"
+},
+{"id":235,
+"fullName":"Eirena Coneau"
+},
+{"id":283,
+"fullName":"Koo Yesson"
+},
+{"id":361,
+"fullName":"Cornelle Quene"
+}]
+},
+{"id":60,
+"name":"Team #60",
+"sport":"Rugby",
+"students":[{"id":107,
+"fullName":"Loria Grent"
+},
+{"id":178,
+"fullName":"Kordula Normanvill"
+},
+{"id":212,
+"fullName":"Nadya Wharin"
+},
+{"id":300,
+"fullName":"Jilli Reditt"
+},
+{"id":325,
+"fullName":"Towney Joscelyn"
+}]
+},
+{"id":61,
+"name":"Team #61",
+"sport":"Netball",
+"students":[{"id":91,
+"fullName":"Lauralee Dorrian"
+},
+{"id":200,
+"fullName":"Hurleigh Beetham"
+},
+{"id":289,
+"fullName":"Karine Vallis"
+},
+{"id":317,
+"fullName":"Blayne McLise"
+}]
+},
+{"id":62,
+"name":"Team #62",
+"sport":"Basketball",
+"students":[{"id":127,
+"fullName":"Buck La Croce"
+},
+{"id":174,
+"fullName":"Odessa McQuillan"
+},
+{"id":201,
+"fullName":"Gregoire Jump"
+},
+{"id":304,
+"fullName":"Rosanna Bourdon"
+},
+{"id":478,
+"fullName":"Bobine Rakes"
+},
+{"id":489,
+"fullName":"Gonzales Bowerman"
+}]
+},
+{"id":63,
+"name":"Team #63",
+"sport":"Netball",
+"students":[{"id":15,
+"fullName":"Thebault Sherwen"
+},
+{"id":18,
+"fullName":"Agathe Lempel"
+},
+{"id":151,
+"fullName":"Mendie Longhorne"
+},
+{"id":427,
+"fullName":"Lori Guiett"
+}]
+},
+{"id":64,
+"name":"Team #64",
+"sport":"Hockey",
+"students":[{"id":147,
+"fullName":"Bettye Salkeld"
+},
+{"id":162,
+"fullName":"Munroe Fomichkin"
+},
+{"id":216,
+"fullName":"Lolita Schulken"
+},
+{"id":387,
+"fullName":"Jaquenetta Findlow"
+}]
+},
+{"id":65,
+"name":"Team #65",
+"sport":"Rugby",
+"students":[{"id":71,
+"fullName":"Anatola Ianinotti"
+},
+{"id":123,
+"fullName":"Laura Ferentz"
+},
+{"id":125,
+"fullName":"Ruddie Dimock"
+},
+{"id":161,
+"fullName":"Deane Sanford"
+},
+{"id":169,
+"fullName":"Baryram Izkovitch"
+},
+{"id":196,
+"fullName":"Phip Humblestone"
+},
+{"id":327,
+"fullName":"Lishe Scroggs"
+},
+{"id":364,
+"fullName":"Chanda Guilloton"
+}]
+},
+{"id":66,
+"name":"Team #66",
+"sport":"Tennis",
+"students":[{"id":57,
+"fullName":"Buffy Beartup"
+},
+{"id":269,
+"fullName":"Orv Climer"
+},
+{"id":273,
+"fullName":"Corabel Walkowski"
+},
+{"id":326,
+"fullName":"Boote Goudy"
+},
+{"id":378,
+"fullName":"Dorelia Cavie"
+},
+{"id":386,
+"fullName":"Tomkin Davydoch"
+},
+{"id":408,
+"fullName":"Ramona Hanssmann"
+},
+{"id":472,
+"fullName":"Berte Henworth"
+},
+{"id":493,
+"fullName":"Drusi Spaduzza"
+}]
+},
+{"id":67,
+"name":"Team #67",
+"sport":"Football",
+"students":[{"id":42,
+"fullName":"Agathe Peres"
+},
+{"id":122,
+"fullName":"Lester Edinburgh"
+},
+{"id":360,
+"fullName":"Paddie Terry"
+},
+{"id":396,
+"fullName":"Edik Bernardinelli"
+},
+{"id":447,
+"fullName":"Emily Overal"
+},
+{"id":464,
+"fullName":"Doroteya Danahar"
+}]
+},
+{"id":68,
+"name":"Team #68",
+"sport":"Rugby",
+"students":[{"id":37,
+"fullName":"Keslie Mirrlees"
+},
+{"id":50,
+"fullName":"Woodman Wanjek"
+},
+{"id":246,
+"fullName":"Orel Tarney"
+},
+{"id":278,
+"fullName":"Bar Hattigan"
+},
+{"id":280,
+"fullName":"Pooh Saylor"
+},
+{"id":340,
+"fullName":"Junette Cobson"
+},
+{"id":354,
+"fullName":"Brigida Delgadillo"
+},
+{"id":413,
+"fullName":"Hillary Springham"
+},
+{"id":494,
+"fullName":"Estevan Bazylets"
+}]
+},
+{"id":69,
+"name":"Team #69",
+"sport":"Netball",
+"students":[{"id":44,
+"fullName":"Thomasa Syrie"
+},
+{"id":108,
+"fullName":"Chandal Slate"
+},
+{"id":189,
+"fullName":"Dido O'Dennehy"
+},
+{"id":293,
+"fullName":"Darren Raithbie"
+},
+{"id":344,
+"fullName":"Sarajane Blamphin"
+},
+{"id":403,
+"fullName":"Connie Cashen"
+}]
+},
+{"id":70,
+"name":"Team #70",
+"sport":"Hockey",
+"students":[{"id":38,
+"fullName":"Felicle Goakes"
+},
+{"id":68,
+"fullName":"Jo-ann McAlarney"
+},
+{"id":168,
+"fullName":"Tiebout Elmhirst"
+},
+{"id":238,
+"fullName":"Earlie Guerner"
+},
+{"id":249,
+"fullName":"Stace Arden"
+},
+{"id":274,
+"fullName":"Fidela Hoonahan"
+},
+{"id":454,
+"fullName":"Matti Whelpton"
+}]
+},
+{"id":71,
+"name":"Team #71",
+"sport":"Rugby",
+"students":[{"id":26,
+"fullName":"Rubia Peddowe"
+},
+{"id":43,
+"fullName":"Cherrita Scrimshaw"
+},
+{"id":81,
+"fullName":"Gerry Longshaw"
+},
+{"id":115,
+"fullName":"Shirleen Clyma"
+},
+{"id":363,
+"fullName":"Micaela Bartaloni"
+},
+{"id":393,
+"fullName":"Torrie Godbehere"
+},
+{"id":446,
+"fullName":"Zaneta Karadzas"
+},
+{"id":456,
+"fullName":"Murdoch Filip"
+}]
+},
+{"id":72,
+"name":"Team #72",
+"sport":"Football",
+"students":[{"id":376,
+"fullName":"Yehudi Cottis"
+},
+{"id":417,
+"fullName":"Wilona Dewhirst"
+}]
+},
+{"id":73,
+"name":"Team #73",
+"sport":"Rugby",
+"students":[{"id":194,
+"fullName":"Consolata Halloran"
+},
+{"id":256,
+"fullName":"Nan Oakland"
+},
+{"id":265,
+"fullName":"Jules Rackham"
+},
+{"id":353,
+"fullName":"Irina Healy"
+},
+{"id":391,
+"fullName":"Des Moulin"
+},
+{"id":415,
+"fullName":"Christy O'Concannon"
+},
+{"id":500,
+"fullName":"Cass Finch"
+}]
+},
+{"id":74,
+"name":"Team #74",
+"sport":"Hockey",
+"students":[{"id":31,
+"fullName":"Kristi Cona"
+},
+{"id":109,
+"fullName":"Farleigh Infante"
+},
+{"id":176,
+"fullName":"Kimberly Harle"
+},
+{"id":213,
+"fullName":"Freddie Becket"
+},
+{"id":292,
+"fullName":"Mirelle Drysdall"
+},
+{"id":338,
+"fullName":"Rivalee Seekings"
+},
+{"id":377,
+"fullName":"Cathrine Reeson"
+}]
+},
+{"id":75,
+"name":"Team #75",
+"sport":"Tennis",
+"students":[{"id":9,
+"fullName":"Esmeralda Neenan"
+},
+{"id":32,
+"fullName":"Benedict Heady"
+},
+{"id":110,
+"fullName":"Rivalee Edens"
+},
+{"id":182,
+"fullName":"Blinni Timoney"
+},
+{"id":307,
+"fullName":"Rasla Willden"
+},
+{"id":388,
+"fullName":"Tarrah Loblie"
+},
+{"id":459,
+"fullName":"Paulie Chessor"
+}]
+}]
+}
